@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Default and Static Methods/Default and STatic Methods.iml" filepath="$PROJECT_DIR$/Default and Static Methods/Default and STatic Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Adhoc Concepts.iml" filepath="$PROJECT_DIR$/Java Adhoc Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream API/Stream API.iml" filepath="$PROJECT_DIR$/Stream API/Stream API.iml" />
+    </modules>
+  </component>
+</project>
